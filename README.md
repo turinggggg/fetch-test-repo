@@ -1,8 +1,8 @@
-# Fetch Test Repo for Turing
+# Fetch Test Repo for Rust
 
-## Turing 1
-### Turing 2
-#### Turing 3
-### Turing 4
-## Turing 5
-# Turing 6
+## Rusting 1
+### Rusting 2
+#### Rusting 3
+### Rusting 4
+## Rusting 5
+# Rusting 6
