@@ -1,8 +1,4 @@
-# About Rust
-
-## Rust is fast
-### Rust is friendly
-#### Rust is good
-### Rust is beautiful
-## Rust is awesome
-# Rust is awweeessssoooommmmeeeee....
+# I love rust
+rust is great
+rust is good
+rust is awesome
